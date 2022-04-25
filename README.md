@@ -1,16 +1,20 @@
-### Hi there 👋
+### Welcome, stranger! 👋
 
-<!--
-**nylosantos/nylosantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**> 🔭 I’m currently working on Ruralweb Telecom as a NOC Technician** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**> 📚 I’m currently learning HTML, CSS, JavaScript, ReactJS and VueJS**
+
+**> 🤔 I’m looking for help with how to enter on IT market as a novice developer**
+
+**> ⚡ Fun fact: I'm also a Youtuber and Liverpool Fan! I talk about LFC on my channel:** [Caminhantes Vermelhos]('https://youtube.com/caminhantesvermelhos')**.**
+
+### Languages
+
+#### Frontend 
+
+> **Reactjs - ReactNative - Vuejs** 
+> 
+### My projects in development 
+
+> **Youtflixtube - Streaming using Youtube API data.** 
