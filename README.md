@@ -16,7 +16,6 @@
   <br>
   ⚡  Fun fact: I'm also a Musician, Youtuber and Liverpool Fan! I talk about LFC on my channel: <a href="https://www.youtube.com/c/caminhantesvermelhos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="caminhantesvermelhos" height="30" width="40" /></a>
   <br>
-  
   📫 How to reach me: <a href="https://twitter.com/nylosantos_">@nylosantos_</a>
   <br>
 </p>
